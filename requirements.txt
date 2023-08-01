@@ -1,0 +1,15 @@
+fastapi == 0.99.1
+easycompletion
+gradio
+openai >= 0.27.8
+pydantic
+pygments
+python-dotenv
+mistune
+sqlalchemy
+swagger-ui-bundle
+
+black
+pytest-asyncio 
+pytest 
+requests
